@@ -11,7 +11,7 @@
 
 //CODE HERE
 
-const gitDefinition = "Git is a vesrion control system that allows users to track and save changes that they make to code.";
+const gitDefinition = "Git is a vesrion control system that allows users to track and save changes that they make to repositories.";
 
 
 //////////////////PROBLEM 2////////////////////
@@ -22,7 +22,7 @@ const gitDefinition = "Git is a vesrion control system that allows users to trac
 
 //CODE HERE
 
-const gitHubDefinition = "GitHub is a clod storage system that interfaces with Git to store code and make it publicly available.";
+const gitHubDefinition = "GitHub is a clod storage system that interfaces with Git to store repositories and make it publicly available.";
 
 
 //////////////////PROBLEM 3////////////////////
@@ -33,7 +33,7 @@ const gitHubDefinition = "GitHub is a clod storage system that interfaces with G
 
 //CODE HERE
 
-const gitInitDefinition = "Git init primes git to let you know that you are preparing to send code."
+const gitInitDefinition = "Git init primes git to let you know that you are preparing to send a repository."
 
 //////////////////PROBLEM 4////////////////////
 /*
