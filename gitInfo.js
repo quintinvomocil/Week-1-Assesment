@@ -11,6 +11,9 @@
 
 //CODE HERE
 
+const gitDefinition = "Git is a vesrion control system that allows users to track and save changes that they make to code.";
+
+
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,6 +21,9 @@
 */
 
 //CODE HERE
+
+const gitHubDefinition = "GitHub is a clod storage system that interfaces with Git to store code and make it publicly available.";
+
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -27,6 +33,8 @@
 
 //CODE HERE
 
+const gitInitDefinition = "Git init primes git to let you know that you are preparing to send code."
+
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -35,6 +43,8 @@
 
 //CODE HERE
 
+const gitCloneDefinition = " Git clone will make a copy of an existing repository and send it to another folder, or directory in the system.";  
+
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,6 +52,8 @@
 */
 
 //CODE HERE
+
+const gitStatusDefinition = "Git status lets you know changes are ready to be commited.";
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -54,6 +66,9 @@
 
 //CODE HERE
 
+const gitAddDefinition = "Git add lets git know which files are to be included in the repository.";
+const gitAddCode = "git add code ."
+
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -65,6 +80,9 @@
 
 //CODE HERE
 
+const gitCommitDefition = "Git commit will take a snapshot of the selected repository.";
+const gitCommitCode = 'git commit -m "initial commit"'
+
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +91,5 @@
 */
 
 //CODE HERE
+
+const gitPushDefinition = "git push will send the selected repository to the cloud storage system that you are using."
